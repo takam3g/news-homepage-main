@@ -6,7 +6,7 @@ import Articles from '../src/components/Articles';
 
 function App() {
   return (
-    <div className="font-['Inter'] desktop:px-40 desktop:pt-20">
+    <div className="font-primary desktop:px-40 desktop:pt-20">
       <Header />
       <div className="m-5">
         <div className="md:grid grid-cols-3 gap-7">
